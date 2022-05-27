@@ -1,0 +1,323 @@
+body {
+  font-family: 'Inter', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  margin: 2rem 5rem;
+}
+
+h1 {
+  font-size: 300%;
+}
+
+.des {
+  width: 30rem;
+}
+
+.strip {
+  position: absolute;
+  top: 0px;
+  right: 227px;
+  width: 25%;
+  height: 30rem;
+  background-color: #95CD41;
+  z-index: -1;
+}
+
+#imgGirl {
+  position: absolute;
+  padding-left: 55%;
+  size: 50px;
+  width: 25rem;
+  height: auto;
+  z-index: 3;
+}
+
+.link:hover {
+  font-size: 90%;
+  color: #F94892;
+  margin: 3rem;
+}
+
+.link {
+  z-index: 6;
+}
+
+.bottom-container {
+  padding: 3rem;
+  font-family: 'Outfit', sans-serif;
+}
+
+a {
+  margin: 25px;
+}
+
+.button {
+  background-color: #95CD41;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 8px;
+}
+
+.mainHustle {
+  display: flex;
+}
+
+#grid {
+  position: absolute;
+  padding-top: 4rem;
+  left: -120px;
+  z-index: -1;
+}
+
+.hustle {
+  font-size: 5rem;
+  width: 10%;
+  z-index: 3;
+}
+
+.year {
+  color: #95CD41;
+}
+
+.containAUG {
+  padding-right: 70px;
+  padding-top: 5rem;
+  width: 40rem;
+}
+
+/*   MY WORK */
+.myWork {
+  text-align: center;
+  font-size: 250%;
+}
+
+.con {
+  text-align: center;
+}
+
+.sep {
+  display: flex;
+  align-items: center;
+}
+
+.pad {
+  margin: 3rem;
+  padding: 20px;
+}
+
+.projects {
+  color: #95CD41;
+}
+
+.small-strip-1 {
+  position: absolute;
+  top: 91rem;
+  left: 155px;
+  width: 30px;
+  height: 3rem;
+  background-color: #95CD41;
+}
+
+.small-strip-2 {
+  position: absolute;
+  top: 91rem;
+  left: 33.5rem;
+  width: 30px;
+  height: 3rem;
+  background-color: #95CD41;
+}
+
+.small-strip-3 {
+  position: absolute;
+  top: 91rem;
+  left: 57rem;
+  width: 30px;
+  height: 3rem;
+  background-color: #95CD41;
+}
+
+.small-strip-4 {
+  position: absolute;
+  top: 119rem;
+  left: 155px;
+  width: 30px;
+  height: 3rem;
+  background-color: #95CD41;
+}
+
+.small-strip-5 {
+  position: absolute;
+  top: 119rem;
+  left: 33.2rem;
+  width: 30px;
+  height: 3rem;
+  background-color: #95CD41;
+}
+
+.small-strip-6 {
+  position: absolute;
+  top: 119rem;
+  left: 58rem;
+  width: 30px;
+  height: 3rem;
+  background-color: #95CD41;
+}
+
+/*  I AM PROUD OF*/
+.proud {
+  color: white;
+  padding-left: 20rem;
+  font-size: 24px;
+  width: 10%;
+}
+
+.proud-strip {
+  position: absolute;
+  top: 146rem;
+  right: 0px;
+  width: 30%;
+  height: 22rem;
+  background-color: #95CD41;
+  z-index: -1;
+}
+
+.oneline {
+  display: flex;
+}
+
+.ex1 {
+  margin-top: 1rem;
+  width: 15rem;
+  padding: 1rem;
+}
+.green1{
+  width: 35px;
+  height: 3px;
+  background-color: #95CD41;
+}
+.green2{
+  width: 35px;
+  height: 3.5px;
+  background-color: #95CD41;
+}
+.green3{
+  width: 35px;
+  height: 3px;
+  background-color: #95CD41;
+}
+.green4{
+  width: 35px;
+  height: 3.5px;
+  background-color: #95CD41;
+}
+.green5{
+  width: 35px;
+  height: 3.5px;
+  background-color: #95CD41;
+}
+
+
+.ex2 {
+  margin-top: 3rem;
+  width: 15rem;
+  padding: 1rem;
+}
+
+.ex3 {
+  margin-top: 1rem;
+  width: 15rem;
+  padding: 1rem;
+}
+
+.ex4 {
+  margin-top: 0.8rem;
+  width: 15rem;
+  padding: 1rem;
+}
+.ex5 {
+  margin-top: 2rem;
+  width: 15rem;
+  padding: 1rem;
+}
+
+.combinexplain {
+  display: flex;
+}
+
+/*My Side Hustle*/
+.sing-margin {
+  margin-top: 15rem;
+}
+
+.guitar{
+  width: 16rem;
+}
+
+.friend{
+width: 11rem;
+padding-bottom: 5px;
+}
+.badminton{
+  width: 11rem;
+
+}
+.paint{
+width: 16rem;
+}
+.read{
+  width: 12rem;
+  height: 15rem;
+}
+
+.huss{
+  display: flex;
+}
+.side {
+  width: 10%;
+}
+
+.sid {
+  color: #95CD41;
+  font-size: 5rem;
+}
+
+.sing {
+  display: flex;
+}
+
+.pixa {
+  padding-left: 20rem;
+}
+
+/*CONTACTS  --------------------------------------*/
+.bottom-strip {
+  position: absolute;
+  top: 230rem;
+  left: 0px;
+  width: 35%;
+  height: 15rem;
+  background-color: #95CD41;
+  z-index: -1;
+}
+
+.heading-bottom{
+  padding-top: 50px;
+  font-size: 300%;
+  color: white;
+}
+.b-pic{
+  width: 20px;
+  padding: 5px;
+}
+
+
+.reser{
+  position: absolute;
+  right: 80px;
+  top: 239rem;
+
+}
